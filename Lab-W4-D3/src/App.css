@@ -1,0 +1,11 @@
+.edd{
+
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 50px;
+}
+ul{
+  list-style-type: none;
+}
